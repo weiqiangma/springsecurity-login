@@ -1,0 +1,8 @@
+主要技术栈
+springboot 2.3.1
+springsecurity 2.3.1
+mysql 8.0.20
+mybatis
+
+需求
+简单实现了基于springsecurity + jwt的用户认证及授权
